@@ -14,6 +14,5 @@ def toadstool
     
     puts mario 
     puts toadstool
-    link = "It's Dangerous To Go Alone! Take This."
     puts link
   end
